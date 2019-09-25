@@ -1,0 +1,28 @@
+td {
+  border: 1px gray solid;
+}
+
+th {
+  font-size: 2em;
+}
+
+
+td.eerste {
+  width: 200px;
+}
+
+td.restvrij{
+  width: 300px;
+}
+
+td.eerste{
+  font-size: 25px
+}
+
+td{
+  padding: 1px
+}
+
+input[type="time"] {
+  width: 15 0px;
+}
